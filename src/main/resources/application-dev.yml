@@ -31,10 +31,3 @@ logging:
 messages:
   basename: i18n/exception
   encoding: UTF-8
-
-jwt:
-  secret: VmpKMGEyTXlTa2hWYTFwT1ZqSm9jRmxzVm1Ga1ZtUnpXVE5vYVZJd2NERldWM1JMWVd4T1JsSlVhejA9
-
-file:
-  upload:
-    location: /Users/jojaeyeong/Desktop/diet/src/main/resources/static/
